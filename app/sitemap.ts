@@ -12,6 +12,7 @@ const routes = [
   '/guides/what-is-ai-trading',
   '/guides/how-to-evaluate-ai-trading-bot',
   '/guides/automated-gold-trading',
+  '/guides/ai-trading-bot-vs-copy-trading',
   '/guides/backtesting-vs-live-results',
   '/guides/profit-factor-explained',
   '/guides/win-rate-explained',
