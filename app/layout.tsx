@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 import './globals.css';
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://soniqe.com';
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.soniqe.com';
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
