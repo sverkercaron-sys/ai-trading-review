@@ -1,0 +1,2 @@
+const copyXAffiliateUrl='https://copyxapp.io/auth/register?e=jpRp5VL96EtSfBCyumc1bcaAaqZrkmHbKpPRfmXzysc&a=2';
+export default function CopyXAffiliateButton({label='Open CopyX registration'}:{label?:string}){return <div><a className="button" href={copyXAffiliateUrl} target="_blank" rel="sponsored noopener noreferrer">{label} →</a><p><small>Affiliate link. AI Trading Review may earn a commission if you register or purchase through this link. This does not affect our editorial assessment.</small></p></div>}
